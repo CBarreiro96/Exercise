@@ -17,7 +17,7 @@ Comparison points is the total points a person earned.
 Given a and b, determine their respective comparison points.
 
 ------------------ Example ------------------------------------
-a = [1, 2, 3]
+a = [1, 2, 3]   
 b = [3, 2, 1]
 
    * For elements *0*, Bob is awarded a point because a[0] .
