@@ -42,7 +42,7 @@ You can return the answer in any order.
 
 <div align="center">
 
-[Check code](https://github.com/CBarreiro96/PlatformWeb_Exercise/commit/2aaaee9a18c0cbb4abaa0dcdcaa811952186067f#diff-94dbe8d375242ea13fa08c61973e38549d661c65e7c2802f970114576974cec5)
+[Check code](https://github.com/CBarreiro96/PlatformWeb_Exercise/commit/2aaaee9a18c0cbb4abaa0dcdcaa811952186067f#diff-24c60a2d6f3815ab6f252e4ba704a7ff0f5f813ce4b8fb3cb9a9676acf2256bd)
 
 </div>
 
@@ -65,7 +65,7 @@ You can return the answer in any order.
 
 <div align="center">
 
-[Check code](https://github.com/CBarreiro96/PlatformWeb_Exercise/blob/master/Leetcode/Two_Sum.py)
+[Check code](https://github.com/CBarreiro96/PlatformWeb_Exercise/blob/master/Leetcode/Python/Two_Sum.py)
 
 </div>
 
