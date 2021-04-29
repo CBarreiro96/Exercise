@@ -1,5 +1,6 @@
 # Problem in Leetcode
-## :memo:Explain and description:memo:
+## :scroll::Book: Description :Book::scroll:
+### :memo: Activities :memo:
 <details>
 <summary><b>1. Two sum</b></summary>
 
@@ -66,6 +67,50 @@ You can return the answer in any order.
 
 [Check code](https://github.com/CBarreiro96/PlatformWeb_Exercise/blob/master/Leetcode/Two_Sum.py)
 
+</div>
+
+</details>
+
+<details>
+    <summary><b>2. Reverse_Integer</b></summary>
+    
+## Reverse Integer
+### :scroll: Description :scroll:
+Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value 
+to go outside the signed 32-bit integer range [-2<sup>31</sup>, 2<sup>31</sup> - 1], then return 0.
+---
+### INPUT
+>x = 123
+### OUTPUT
+>321
+---
+### INPUT
+>x = -123
+### OUTPUT
+>-321
+---
+### INPUT
+>x = 0
+### OUTPUT
+>0
+---
+## WHiteboard
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/66263776/116604605-f5d79e00-a8f3-11eb-9e72-4ba8eaa54c41.png" width="600" height= "600">
+</div>
+
+<div align="center">
+    <table>
+        <tr>
+            <th><center>Runtime</center></th>
+            <th><center>Memory</center></th>
+        </tr>
+        <tr>
+            <td align="center">32 ms</td>
+            <td align="center">14.2 MB</td>
+        </tr>
+    </table>
 </div>
 
 </details>
