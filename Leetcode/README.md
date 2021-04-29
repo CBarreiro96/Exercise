@@ -57,10 +57,12 @@
         </tr>
     </table>
 </div>
-</details>
 
 <center>
 
 [Check code](https://github.com/CBarreiro96/PlatformWeb_Exercise/commit/2aaaee9a18c0cbb4abaa0dcdcaa811952186067f#diff-94dbe8d375242ea13fa08c61973e38549d661c65e7c2802f970114576974cec5)
 
 </center>
+
+</details>
+
