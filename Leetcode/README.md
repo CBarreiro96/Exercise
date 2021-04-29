@@ -34,6 +34,13 @@
         </tr>
     </table>
 </div>
+
+<center>
+
+[Check code](https://github.com/CBarreiro96/PlatformWeb_Exercise/blob/master/Leetcode/Two_Sum.py)
+
+</center>
+
 * The best case O(**n**)
 <div align="center">
 <img src="https://user-images.githubusercontent.com/66263776/116566410-5ce15c80-a8cc-11eb-9ce1-f4688e93b9fe.png" width="600" height= "600">
@@ -51,3 +58,9 @@
     </table>
 </div>
 </details>
+
+<center>
+
+[Check code](https://github.com/CBarreiro96/PlatformWeb_Exercise/commit/2aaaee9a18c0cbb4abaa0dcdcaa811952186067f#diff-94dbe8d375242ea13fa08c61973e38549d661c65e7c2802f970114576974cec5)
+
+</center>
