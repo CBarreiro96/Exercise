@@ -1,4 +1,7 @@
 # Problem in Leetcode
+<details>
+<summary><b>1. Two sum</b></summary>
+
 ## Two sum
 ### Example
 
@@ -15,5 +18,8 @@
 ---
 
 ### Whiteboard
-In the lost case (**n^2**)
-<div align="center"><img src="https://user-images.githubusercontent.com/66263776/116494229-02151a00-a866-11eb-971c-6752ed3718f4.png" width="700" height= "200"> </div>
+In the lost case (**n<sup>2</sup>**)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/66263776/116494229-02151a00-a866-11eb-971c-6752ed3718f4.png" width="600" height= "600">
+</div>
+</details>
