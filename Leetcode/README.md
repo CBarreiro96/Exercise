@@ -117,3 +117,39 @@ to go outside the signed 32-bit integer range [-2<sup>31</sup>, 2<sup>31</sup> -
 
 </details>
 
+<details>
+<summary><b>3. Palindrome number</b></summary>
+
+## :scroll: Description :Scroll:
+Given an integer x, return true if x is palindrome integer.
+
+An integer is a palindrome when it reads the same backward as forward. 
+For example, 121 is palindrome while 123 is not.
+
+---
+### INPUT
+>x = 121
+### OUTPUT
+> true
+---
+### INPUT
+>x = -121
+### OUTPUT
+>false
+---
+### INPUT
+>x = 10
+### OUTPUT
+>false
+---
+### INPUT
+>x = -101
+### OUTPUT
+>false
+
+## WHITEBOARD
+<div align="center">
+<img src="https://user-images.githubusercontent.com/66263776/116754448-5d621c00-a9ce-11eb-8773-3387473e970d.png" width="600" height= "600">
+</div>
+</details>
+
