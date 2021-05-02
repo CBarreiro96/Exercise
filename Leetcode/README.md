@@ -209,4 +209,16 @@ Given a roman numeral, convert it to an integer.
 <div align="center">
 <img src="https://user-images.githubusercontent.com/66263776/116800166-24a46e80-aac4-11eb-9b0d-df0dd0475fb5.png" width="600" height= "600">
 </div>
+<div align="center">
+    <table>
+        <tr>
+            <th><center>Runtime</center></th>
+            <th><center>Memory</center></th>
+        </tr>
+        <tr>
+            <td align="center">60 ms</td>
+            <td align="center">14 MB</td>
+        </tr>
+    </table>
+</div>
 </details>
