@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-from solution import solution, printVector
+from solution_problem_1 import solution, printVector
 
 if __name__ == '__main__':
     a, sums = solution()
