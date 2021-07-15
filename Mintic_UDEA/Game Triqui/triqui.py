@@ -16,6 +16,9 @@ class Triqui:
         self.m = m
         self.n = n
         self.mat = [] * (m + 1) # Create empty vector
+        for i in range(m+1):
+            a = [0] * (n+1)
+            self.mat.append(a)
 
 
     def printRowMatrix(self, message="Matrix whithout name:"):
@@ -33,11 +36,26 @@ class Triqui:
             print("square occupied")
 
     def evaluate_RowTriqui(self, piece):
-        for i in range(1,self.m + 1):
+        for i in range(1, self.m + 1):
             if self.mat[i][1] == piece and self.mat[i][2] == piece and self.mat[i][3] == piece:
-                print("triqui en" + piece)
-            else:
-                pass
+                return "triqui en " + piece
+            elif i == self.m:
+                return "No hay triqui"
+
+    def evaluate_ColumnTriqui(self, piece):
+        for i in range(1, self.m + 1):
+            if self.mat[1][i] == piece and self.mat[2][i] == piece and self.mat[3][i] == piece:
+                return "triqui en " + piece
+            elif i == self.m:
+                return "No hay triqui"
+
+    def evaluate_DiagonalsTriqui(self, piece):
+        for i in range(1, self.m + 1):
+            if self.mat[1][i+((i-1)*3)] == piece and self.mat[2][i] == piece and self.mat[3][i**(i+1)] == piece:
+                return "triqui en " + piece
+            elif i == self.m:
+                return "No hay triqui"
+
 
 triqui=Triqui(3, 3)
 triqui.printRowMatrix("Triqui")
