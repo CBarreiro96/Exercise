@@ -6,7 +6,7 @@ from os import system
 keyExpression = [];
 numberList = [];
 Expressions = {'acquaintance':'\"Someone you have met, but do not know well\"','clique':'\"A small group of people who keep others from joining them\"','3':'3-','4':'4-'}
-Vocabulary = {'hola2':'hola2-','22':'22-','33':'33-','44':'44-'}
+Vocabulary = {'selfless':'hola2-','22':'22-','33':'33-','44':'44-'}
 Lists = [Expressions,Vocabulary]
 
 print('What word\'s list do you like to study?')
